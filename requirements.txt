@@ -1,0 +1,4 @@
+numpy=1.20.1
+opencv=4.5.2.54
+skimage=0.18.2
+absl-py=0.13.0
